@@ -23,5 +23,8 @@ print("-------------------------------")
 output_line_three = f"Joules:\t{KE_joules} J"
 #print("Joules:\t", KE_Joules, "J")
 print(output_line_three)
-output_line_three = f"Calories:"
+output_line_four = f"Calories:\t{KE_calories} cal"
+print(output_line_four)
+output_line_five = f"Ergs:\t\t{KE_ergs} erg"
+print(output_line_five)
 
